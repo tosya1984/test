@@ -1,6 +1,6 @@
 ## Name:
-#        Anton Tsiatska
-###      javascript/front end developer
+#  Anton Tsiatska
+#### javascript/front end developer
 ## Contact information:
 * email: **tosya@ua.fm**;
 * tel: **+380506735712**;
@@ -33,7 +33,7 @@ function nicknameGenerator(name){
 ```
 ## Courses:
 * https://htmlacademy.ru
-* http://htmlbook.ru/samcss
+* https://htmlbook.ru/samcss
 * https://learn.javascript.ru/
 * https://www.udemy.com/
 * RS School
